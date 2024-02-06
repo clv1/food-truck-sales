@@ -1,2 +1,16 @@
-# food-truck-sales
-Automated pipeline (with a live dashboard and daily email report) that regularly collects transaction-level data from a fleet of food trucks for central analysis. 
+# (🚧 Under construction 🚧)
+
+# Food Truck Sales Analysis
+
+# 📃 Problem
+
+## Project Solution
+
+
+# 🛠️ Setup
+
+### Environment variables
+
+# 🛫 Running the project
+
+

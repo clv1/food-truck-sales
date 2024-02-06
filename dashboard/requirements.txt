@@ -1,0 +1,6 @@
+altair
+pandas
+streamlit
+
+python-dotenv
+redshift_connector

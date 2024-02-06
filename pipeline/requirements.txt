@@ -1,0 +1,10 @@
+altair
+boto3
+openpyxl
+pandas
+pyarrow
+python-dotenv
+redshift_connector
+streamlit
+
+
